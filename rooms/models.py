@@ -1,5 +1,3 @@
-from ast import arg
-from distutils.command.upload import upload
 from django.db import models
 from django_countries.fields import CountryField
 from core import models as core_models
